@@ -37,7 +37,7 @@ Các giá trị cốt lõi:
 ## 🖼️ 2. Poster
  
 <div align="center">
-<img src="images/poster.jpg" alt="FIT DNU Logo" width="400"/>
+<img src="images/Poster.jpg" alt="FIT DNU Logo" width="400"/>
 
 </div>
 ## 🔧 3. Công nghệ sử dụng
