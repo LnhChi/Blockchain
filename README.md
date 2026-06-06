@@ -37,11 +37,8 @@ Các giá trị cốt lõi:
 ## 🖼️ 2. Poster
  
 <div align="center">
-![Poster hệ thống](./images/poster.jpg)
- 
-<p>
-<a href="./images/poster.pdf">📄 Nhấn vào đây để xem chi tiết Poster (PDF)</a>
-</p>
+![Poster hệ thống](images/poster.jpg)
+
 </div>
 ## 🔧 3. Công nghệ sử dụng
  
